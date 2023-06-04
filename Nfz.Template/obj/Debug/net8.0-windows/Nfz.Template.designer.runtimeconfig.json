@@ -1,0 +1,24 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "8.0.0-preview.4.23259.5"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "8.0.0-preview.4.23260.1"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\softb\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\softb\\.nuget\\packages",
+      "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

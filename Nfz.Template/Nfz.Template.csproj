@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+  
+  <Target Name="PostBuild" AfterTargets="Build">
+    <Exec Command="..\..\.softbery\bin\Debug\net7.0\softbery.exe" />
+  </Target>
+</Project>
