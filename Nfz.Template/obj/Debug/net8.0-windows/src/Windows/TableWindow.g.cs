@@ -60,7 +60,7 @@ namespace Nfz.Template.src.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Nfz.Template;V1.0.0.0;component/src/windows/tablewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Nfz.Template;component/src/windows/tablewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\src\Windows\TableWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

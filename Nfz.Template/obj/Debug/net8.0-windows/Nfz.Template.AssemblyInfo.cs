@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nfz.Template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be889d389c28971b4dc3f209fcd8112aed2fe80")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nfz.Template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nfz.Template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

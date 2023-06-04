@@ -21,3 +21,4 @@ C:\Developing\Nfz.Template\Nfz.Template\obj\Debug\net8.0-windows\refint\Nfz.Temp
 C:\Developing\Nfz.Template\Nfz.Template\obj\Debug\net8.0-windows\Nfz.Template.pdb
 C:\Developing\Nfz.Template\Nfz.Template\obj\Debug\net8.0-windows\Nfz.Template.genruntimeconfig.cache
 C:\Developing\Nfz.Template\Nfz.Template\obj\Debug\net8.0-windows\ref\Nfz.Template.dll
+C:\Developing\Nfz.Template\Nfz.Template\obj\Debug\net8.0-windows\Nfz.Template.sourcelink.json
